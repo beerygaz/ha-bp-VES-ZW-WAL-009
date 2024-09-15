@@ -1,5 +1,5 @@
 blueprint:
-  name: Z-Wave JS - Vesternet Wall Controller 4-Button 
+  name: Z-Wave JS - Vesternet Wall Controller 8-Button 
   description:
     "Create automations for Vesternet 8-Button Scene Controller [VES-ZW-WAL-009](https://www.vesternet.com/en-global/collections/z-wave-keyfobs-remotes-wall-controllers/products/vesternet-z-wave-wall-controller-8-button) using the Z-Wave JS integration.
     
